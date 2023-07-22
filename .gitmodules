@@ -1,6 +1,6 @@
 [submodule "repo1"]
 	path = repo1
-	url = ../repo1
-[submodule "color-button"]
-	path = color-button
-	url = https://github.com/LorenaGRB/color-button
+	url = https://github.com/LorenaGRB/repo1.git
+[submodule "back-repo1"]
+	path = back-repo1
+	url = https://github.com/LorenaGRB/back-repo1.git
