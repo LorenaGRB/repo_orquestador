@@ -1,6 +1,7 @@
-[submodule "repo1"]
-	path = repositories/repo1
-	url = https://github.com/LorenaGRB/repo1.git
 [submodule "back-repo1"]
 	path = repositories/back-repo1
 	url = https://github.com/LorenaGRB/back-repo1.git
+
+[submodule "repo1"]
+	path = repositories/repo1
+	url = https://github.com/LorenaGRB/repo1.git
